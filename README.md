@@ -1,1 +1,1 @@
-# pymc3XANES
+# PyMC3 for XANES (Under Construction)
